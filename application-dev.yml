@@ -1,2 +1,2 @@
-bar:
-  foo: testDevPropertiesYml
+foo:
+  bar: testDevPropertiesYml
